@@ -298,3 +298,4 @@ Use `npm install` to install the packages.
 # covid-stats
 # covid-stats
 # covid-stats
+# -bm
